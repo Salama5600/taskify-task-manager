@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/taskify-task-manager/static/css/main.be8c78e1.css",
-    "main.js": "/taskify-task-manager/static/js/main.7036a52a.js",
+    "main.css": "/taskify-task-manager/static/css/main.c37abb60.css",
+    "main.js": "/taskify-task-manager/static/js/main.3b69844a.js",
     "index.html": "/taskify-task-manager/index.html",
-    "main.be8c78e1.css.map": "/taskify-task-manager/static/css/main.be8c78e1.css.map",
-    "main.7036a52a.js.map": "/taskify-task-manager/static/js/main.7036a52a.js.map"
+    "main.c37abb60.css.map": "/taskify-task-manager/static/css/main.c37abb60.css.map",
+    "main.3b69844a.js.map": "/taskify-task-manager/static/js/main.3b69844a.js.map"
   },
   "entrypoints": [
-    "static/css/main.be8c78e1.css",
-    "static/js/main.7036a52a.js"
+    "static/css/main.c37abb60.css",
+    "static/js/main.3b69844a.js"
   ]
 }
