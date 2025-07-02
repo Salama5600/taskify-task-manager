@@ -1,0 +1,22 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  padding: 25px 50px 25px 35px;
+}
+
+.card .card-header {
+  background-color: white;
+  border: none;
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px )  and (max-width: 1281px) {
+  .card {
+    width: 250px;
+    margin: 0 10px;
+  }
+  .card .card-header h4{
+    font-size: 16px;
+  }
+}

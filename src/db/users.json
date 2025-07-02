@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "437b",
+      "name": "ahmed",
+      "email": "ahmed.mailbox.5050@gmail.com",
+      "password": "123456",
+      "tasks": [
+        {
+          "id": 1751464607046,
+          "title": "hamada",
+          "description": "medo",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "id": "39fb",
+      "name": "mohamed",
+      "email": "mohamed@gmail.com",
+      "password": "medo1212",
+      "tasks": [
+        {
+          "id": 1751463799894,
+          "title": "learn programming",
+          "description": "learn programming by js",
+          "status": "completed"
+        }
+      ]
+    },
+    {
+      "id": "f3bd",
+      "name": "mohamed",
+      "email": "mohamed@gmail.com",
+      "password": "medo1212",
+      "tasks": []
+    },
+    {
+      "id": "132f",
+      "name": "hima",
+      "email": "hima@gmail.com",
+      "password": "hima5656",
+      "tasks": []
+    },
+    {
+      "id": "b366",
+      "name": "omar",
+      "email": "omar@gmail.com",
+      "password": "omar506070",
+      "tasks": []
+    },
+    {
+      "id": "e663",
+      "name": "ahmed ",
+      "email": "ahmed.freelance.5050@gmail.com",
+      "password": "medo5600",
+      "tasks": []
+    },
+    {
+      "id": "500e",
+      "name": "hamada",
+      "email": "ahmed.work.7070@gmail.com",
+      "password": "565656",
+      "tasks": []
+    },
+    {
+      "id": "1b2a",
+      "name": "ahmed",
+      "email": "ahahaahah@gmail.com",
+      "password": "123456",
+      "tasks": []
+    }
+  ]
+}

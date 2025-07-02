@@ -1,0 +1,90 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 0;
+}
+
+.line-div {
+  border-bottom: 1px solid #e7edf4;
+  margin-bottom: 20px;
+}
+
+.header .first-div {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header .first-div .header-links a {
+  text-decoration: none;
+  color: black;
+  padding: 0 10px;
+  margin: 0 5px;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.header .first-div .header-links a:hover {
+  color: #3b82f6;
+  transition: all 0.3s ease;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  background-color: #f1f5f9; /* رمادي فاتح */
+  padding: 8px 12px;
+  border-radius: 12px;
+  width: fit-content;
+}
+
+/* Search icon styling */
+.search-icon {
+  margin-right: 8px;
+  color: #3b82f6;
+}
+
+/* Search input field styling */
+.search-input {
+  border: none;
+  outline: none;
+  background: transparent;
+  color: #3b82f6;
+  font-size: 14px;
+}
+
+/* Left header container */
+.header .left-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Left header text styling */
+.header .left-header h5 {
+  margin-left: 10px;
+  color: rgb(81, 81, 81);
+}
+
+.header .left-header h5 span {
+  font-weight: bold;
+}
+
+/* Logout button styling */
+.logout-btn {
+  padding: 10px 20px;
+  background-color: rgb(163, 163, 163);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.logout-btn:hover {
+  background-color: #f63b3b;
+  transition: all 0.3s ease;
+}
